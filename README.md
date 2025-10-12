@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @KawKuroi
-- 👀 I’m interested in learn HTML, CSS, JavaScript, learn about other libraries or languages to deepen my code and do amazing things
-- 🌱 I’m currently learning Everything about the websites, learning machine and apps 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm @KawKuroi
 
-<!---
-KawKuroi/KawKuroi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Backend Developer | AI & Data Science Enthusiast**
+
+---
+
+### 🧠 About Me  
+I’m passionate about **backend development** and **artificial intelligence**.  
+I enjoy creating efficient systems, APIs, and intelligent models that can make a real impact.  
+
+### ⚙️ Tech Stack  
+- 🐍 **Languages:** Python  
+- 🌐 **Backend:** FastAPI, Django  
+- 📊 **Data Science:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow  
+- 🧩 **Databases:** PostgreSQL
+- 🧠 **AI / ML:** Deep Learning, Computer Vision, Natural Language Processing  
+
+### 🚀 Currently Learning  
+- Building scalable APIs with FastAPI  
+- Machine learning model deployment  
+- Data visualization and model optimization  
