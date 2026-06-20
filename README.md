@@ -3,8 +3,6 @@
 **Systems Engineering student · Python-first developer**
 Data, AI and automation. Based in Bogotá, Colombia.
 
-I like turning repetitive problems into small, clean and reliable systems
-
 ---
 
 ### Focus
@@ -23,7 +21,7 @@ AI agents and agentic tooling · backend APIs · data pipelines · automation.
 
 - **Ingeniería de Sistemas** — Universidad Jorge Tadeo Lozano (2022 — present)
 - **Google Cloud (Apigee):** API Design & Fundamentals · API Development · API Security (OAuth / JWT)
-- **Google Data Analytics** (Coursera) — in progress
+- **Data Analytics** (Coursera) — in progress
 
 ### Links
 
